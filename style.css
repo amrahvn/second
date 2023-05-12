@@ -47,13 +47,16 @@
     border:#f4623a;
 }
 
-.red button{
-    padding: 1.25rem 2.25rem;
-    font-size: 0.85rem;
-    font-weight: 700;
-    border: none;
-    border-radius: 10rem;
-    margin: 4px 660px;
+.red a{
+   background-color: #fff;
+   color: #000;
+   text-decoration: none;
+   padding: 12px 60px;
+   border: 30px;
+   border-radius: 20px;
+   margin: 4px 600px;
+   float: right;
+   
 }
 
 .red a{
@@ -103,3 +106,28 @@
     padding: 12px 12px 12px 12px;
 }
 
+.img{
+    width: calc(100%/3);
+    float: left;
+    border-radius: 5px;
+    padding: 0 0px;
+}
+.img img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.sur{
+    width: 23%;
+   float: left;
+   
+}
+
+.sur  p{
+
+    width: 100%;
+    
+}
+.sur h2{
+    width: 100%;
+}

@@ -12,29 +12,3 @@ a{
 input,button,select{
     outline: none;
 }
-
-.sur{
-    width: 23%;
-   float: left;
-   
-}
-
-.sur  p{
-
-    width: 100%;
-    
-}
-.sur h2{
-    width: 100%;
-}
-
-.img{
-    width: 33.3%;
-    float: left;
-    border-radius: 5px;
-    padding: 0 0px;
-}
-.img img{
-    width: 100%;
-    vertical-align: bottom;
-}
