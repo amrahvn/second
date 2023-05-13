@@ -17,7 +17,7 @@
     text-shadow: 2px 2px 4px rgba(10, 10, 10, 0.5);
     transform-style: preserve-3d 0.6s;
     text-shadow: 0 0 20px #ff00ff, 0 0 30px #ff00ff;
-   
+    
     
 
 }
@@ -183,10 +183,11 @@
    padding: 10px;
    margin-bottom: 50px;
    width: 23%;
-    justify-content:space-between;  
+    /* justify-content:space-between;   */
     margin-left: 22px;
     background-color: #fff;
     transition: background-color 0.7s ease; 
+    box-shadow: inset 3px 1px 14px 0px #d5312f;
 }
 
 .surcommon{
